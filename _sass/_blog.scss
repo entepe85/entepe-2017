@@ -1,0 +1,42 @@
+.post-list {
+    h2 {
+        margin-bottom: 0;
+    }
+    .category-label {
+        background: $brand-color-dark;
+        border: 1px solid darken($brand-color-dark, 5%) {
+            radius: 5px;
+        }
+        color: $background-color;
+        display: inline-block;
+        font-size: 0.8em;
+        font-weight: 400;
+        margin: {
+            right: 0.5em;
+            top: 0.5em;
+        }
+        padding: 0 0.5em;
+    }
+}
+
+.post-content {
+    + .sharing {
+        h3 {
+            border-bottom: 1px solid fade-out($text-color, .75);
+            display: inline-block;
+            padding: 0.25em;
+            margin-bottom: 0.25em;
+        }
+        p {
+            font-size: 1.5em;
+            a {
+                display: inline-block;
+                margin: 0 0.25em;
+            }
+        }
+    }
+}
+
+#disqus_thread {
+    margin-top: 3em;
+}
