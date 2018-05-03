@@ -17,7 +17,7 @@ permalink: /kontakt/
                     24105 Kiel
                 </p>
                 <p>
-                    <a href="mailto:kontakt@entepe.de"><i class="fa fa-envelope"></i> kontakt@entepe.de</a>
+                    <a href="javascript:linkTo_UnCryptMailto('nbjmup;lpoubluAfoufqf/ef');"><i class="fa fa-envelope"></i> kontakt [at] entepe [dot] de</a>
                 </p>
             </div>
             <div class="form-wrap">
@@ -39,3 +39,26 @@ permalink: /kontakt/
         </div>
     </div>
 </section>
+
+<script type="text/javascript"> <!--
+    function UnCryptMailto( s )
+    {
+        var n = 0;
+        var r = "";
+        for( var i = 0; i < s.length; i++)
+        {
+            n = s.charCodeAt( i );
+            if( n >= 8364 )
+            {
+                n = 128;
+            }
+            r += String.fromCharCode( n - 1 );
+        }
+        return r;
+    }
+
+    function linkTo_UnCryptMailto( s )
+    {
+        location.href=UnCryptMailto( s );
+    }
+// --> </script>
