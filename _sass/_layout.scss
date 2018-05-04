@@ -1,17 +1,17 @@
 /**
  * Site header
  */
+
 .site-header {
     background: transparent;
     border-bottom: 1px solid $grey-color-light;
     border-top: 5px solid $brand-color;
     min-height: 56px;
-    overflow: hidden;
-    // Positioning context for the mobile navigation icon
+    overflow: hidden; // Positioning context for the mobile navigation icon
     position: relative;
     z-index: 10;
     .site-header-background {
-        background: url('#{$base-url}/assets/img/header-v4.jpg') center center no-repeat;
+        background: url('#{$base-url}/assets/img/header-v5.jpg') center center no-repeat;
         background-size: cover;
         bottom: -2.5vh;
         left: 0;
@@ -48,30 +48,23 @@
     float: right;
     font-weight: 400;
     line-height: 56px;
-
     .menu-icon {
         display: none;
     }
-
     .page-link {
         color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the last one
+        line-height: $base-line-height; // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
         }
-
         &:hover {
             color: $brand-color-dark;
             text-decoration: none;
         }
-
         &.active {
             color: $brand-color-dark;
         }
     }
-
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
@@ -80,7 +73,6 @@
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
-
         .menu-icon {
             display: block;
             float: right;
@@ -89,36 +81,31 @@
             line-height: 0;
             padding-top: 10px;
             text-align: center;
-
-            > svg {
+            >svg {
                 width: 18px;
                 height: 15px;
-
                 path {
                     fill: $grey-color-dark;
                 }
             }
         }
-
         .trigger {
-            @include columns(2, 0);
+            @include columns(2,
+            0);
             clear: both;
             display: none;
             text-align: center;
-            > .menu-icon {
+            >.menu-icon {
                 display: none;
             }
         }
-
         &:hover .trigger {
             display: block;
             padding-bottom: 5px;
         }
-
         .page-link {
             display: block;
             padding: 5px 10px;
-
             &:not(:last-child) {
                 margin-right: 0;
             }
@@ -127,11 +114,10 @@
     }
 }
 
-
-
 /**
  * Site footer
  */
+
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
@@ -163,29 +149,28 @@
 
 .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width : calc(35% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width : calc(20% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width : calc(45% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
+        width : calc(50% - (#{$spacing-unit} / 2));
     }
-
     .footer-col-3 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width : calc(100% - (#{$spacing-unit} / 2));
     }
 }
 
@@ -193,15 +178,14 @@
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width : calc(100% - (#{$spacing-unit} / 2));
     }
 }
-
-
 
 /**
  * Page content
  */
+
 .page-content {
     padding: ($spacing-unit * 2) 0;
 }
@@ -213,8 +197,7 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-
-    > li {
+    >li {
         margin-bottom: $spacing-unit;
     }
 }
@@ -237,15 +220,13 @@
         .cls-1 {
             fill: #fff;
         }
-
         .cls-2 {
             fill: $brand-color;
         }
-
-        .cls-2, .cls-3 {
+        .cls-2,
+        .cls-3 {
             fill-rule: evenodd;
         }
-
         .cls-3 {
             fill: #000;
             opacity: 0.1;
@@ -260,10 +241,10 @@
     }
 }
 
-
 /**
  * Posts
  */
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -272,7 +253,6 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-
     @include media-query($on-laptop) {
         font-size: 36px;
     }
@@ -280,26 +260,20 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-
     h2 {
         font-size: 28px;
-
         @include media-query($on-laptop) {
             font-size: 24px;
         }
     }
-
     h3 {
         font-size: 22px;
-
         @include media-query($on-laptop) {
             font-size: 18px;
         }
     }
-
     h4 {
         font-size: 16px;
-
         @include media-query($on-laptop) {
             font-size: 14px;
         }
@@ -309,6 +283,7 @@
 /*
  * Icon lists
  */
+
 .fa-ul {
     margin-left: 0;
     li {
