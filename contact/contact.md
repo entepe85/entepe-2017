@@ -20,7 +20,7 @@ permalink: /kontakt/
                     <a href="javascript:linkTo_UnCryptMailto('nbjmup;lpoubluAfoufqf/ef');"><i class="fa fa-envelope"></i> kontakt [at] entepe [dot] de</a>
                 </p>
             </div>
-            <div class="form-wrap">
+            <!-- <div class="form-wrap">
                 <form action="//formspree.io/kontakt@entepe.de" method="POST" class="pure-form ajax-form">
                     <formbody>
                         <fieldset class="pure-group">
@@ -35,7 +35,7 @@ permalink: /kontakt/
                         <button type="submit" class="pure-button"><i class="fa fa-paper-plane-o"></i> Abschicken</button>
                     </formbody>
                 </form>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
