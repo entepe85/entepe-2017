@@ -19,7 +19,7 @@ permalink: /music/
             Düster grollend bis jazzig swingend sorge ich so bei <a href="http://www.bluestoo.de/" target="_blank">Blues Too</a> für den Groove, habe während meines Studiums die Band FaBulous ME an der FH Kiel bei Jazz & Funk am Bass unterstützt und unter anderem bei der Kieler Hardrock Band <a href="https://www.facebook.com/pages/Vertical-Blinds/667924916593648" target="_blank">Vertical Blinds</a> reichlich Tiefdruck erzeugt.
         </p>
         <p>
-            Aktuell spiele ich außerdem in der Band <a href="http://turbomotor.rocks/" target="_blank">Turbomotor</a> aus Kiel und bringe mit den Jungs druckvollen Rock zwischen Punk und Metal zu Gehör.
+            Aktuell spiele ich außerdem Schlagzeug in einer noch namenlosen Band aus Kiel und bringe mit den Jungs druckvollen Rock zwischen Punk und Metal zu Gehör.
         </p>
         <p>
             Darüber hinaus habe ich mich im Selbststudium intensiv mit dem weiten Feld der Audiotechnik auseinander gesetzt und bin in den letzten Jahren häufig als Tontechniker bei Liveveranstaltungen oder in kleineren Aufnahmeprojekten unterwegs.

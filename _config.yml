@@ -3,7 +3,7 @@ title: ntp. - Code, rants and rock'n'roll.
 owner: Nils Torbjörn Petersen, M.A.
 email: kontakt@entepe.de
 description: > # this means to ignore newlines until "baseurl:"
-    Blog und digitale Visitenkarte von Nils Torbjörn Petersen. Webentwickler, Musiker und ambitionierter Hobby-Fotograf aus Kiel an der schönen Ostseeküste.
+    Digitale Visitenkarte von Nils Torbjörn Petersen. Webentwickler, Musiker und ambitionierter Hobby-Fotograf aus Kiel an der schönen Ostseeküste.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://entepe.de" # the base hostname & protocol for your site
 #url: "http://localhost:4000"
