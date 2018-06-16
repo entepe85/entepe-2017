@@ -13,14 +13,14 @@
                     />
                 </svg>
                 <div class="trigger">
-                    {% for my_page in site.pages %} {% if my_page.title %}
+                    {% for my_page in site.pages %} {% if my_page.title and my_page.title != 'Blog' %}
                     <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
                     {% endif %} {% endfor %}
                 </div>
         </nav>
         </a>
         <a class="site-title" href="{{ site.baseurl }}/">
-            <img id="site-logo" src="{{ '/assets/img/ntp.-logo@1x.png' | prepend: site.url }}" srcset="{{ '/assets/img/ntp.-logo@2x.png' | prepend: site.url }} 2x">
+            <img id="site-logo" src="{{ '/assets/img/ntp-2017-v2.png' | prepend: site.url }}" srcset="{{ '/assets/img/ntp-2017-v2@2x.png' | prepend: site.url }} 2x">
         </a>
     </div>
 
