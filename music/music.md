@@ -13,13 +13,13 @@ permalink: /music/
     </div>
     <div class="row">
         <p>
-            Seit Kindheitstagen spiele ich bereits Posaune und Tenorhorn, später gesellten sich dann Percussions, E-Bass und Akustik-Gitarre dazu. Neuerdings beschäftige ich mich außerdem ein wenig mit dem Schlagzeug und nenne einen Kontrabass mein Eigen, auf dem ich fleißig übe, wann immer ich mich im Atelier in der Festung Friedrichsort befinde.
+            Seit Kindheitstagen spiele ich bereits Posaune und Tenorhorn, später gesellten sich dann Percussions, E-Bass und Akustik-Gitarre dazu. Neuerdings beschäftige ich mich außerdem ein wenig mit dem Schlagzeug und nenne einen Kontrabass mein Eigen, auf dem ich fleißig übe, wann immer ich Zeit dazu finde.
         </p>
         <p>
             Düster grollend bis jazzig swingend sorge ich so bei <a href="http://www.bluestoo.de/" target="_blank">Blues Too</a> für den Groove, habe während meines Studiums die Band FaBulous ME an der FH Kiel bei Jazz & Funk am Bass unterstützt und unter anderem bei der Kieler Hardrock Band <a href="https://www.facebook.com/pages/Vertical-Blinds/667924916593648" target="_blank">Vertical Blinds</a> reichlich Tiefdruck erzeugt.
         </p>
         <p>
-            Aktuell spiele ich außerdem Schlagzeug in einer noch namenlosen Band aus Kiel und bringe mit den Jungs druckvollen Rock zwischen Punk und Metal zu Gehör.
+            Bis Sommer 2018 spielte ich außerdem Schlagzeug in einer Punk-Metal-Crossover Band aus Kiel.
         </p>
         <p>
             Darüber hinaus habe ich mich im Selbststudium intensiv mit dem weiten Feld der Audiotechnik auseinander gesetzt und bin in den letzten Jahren häufig als Tontechniker bei Liveveranstaltungen oder in kleineren Aufnahmeprojekten unterwegs.
