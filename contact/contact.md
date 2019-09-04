@@ -13,8 +13,8 @@ permalink: /kontakt/
                     Multimedia Production
                 </p>
                 <p>
-                    Esmarchstr. 22<br />
-                    24105 Kiel
+                    Knivsberg 37<br />
+                    24106 Kiel
                 </p>
                 <p>
                     <a href="javascript:linkTo_UnCryptMailto('nbjmup;lpoubluAfoufqf/ef');"><i class="fa fa-envelope"></i> kontakt [at] entepe [dot] de</a>
