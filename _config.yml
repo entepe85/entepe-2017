@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://entepe.de" # the base hostname & protocol for your site
 #url: "http://localhost:4000"
-twitter_username: BronySoprano
+twitter_username: torbjoern_de
 github_username:  entepe85
 #instagram_username: der_nerddeutsche
 
