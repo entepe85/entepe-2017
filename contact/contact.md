@@ -8,7 +8,7 @@ permalink: /kontakt/
     <div class="row">
         <div class="contact-wrap">
             <div class="info-wrap">
-                <h2>Torbjörn Petersen, M.A.</h2>
+                <h2>Nils Torbjörn Petersen, M.A.</h2>
                 <p>
                     Multimedia Production
                 </p>
