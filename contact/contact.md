@@ -17,26 +17,10 @@ permalink: /kontakt/
                     24106 Kiel
                 </p>
                 <p>
-                    <a href="javascript:linkTo_UnCryptMailto('nbjmup;lpoubluAfoufqf/ef');"><i class="fa fa-envelope"></i> kontakt [at] entepe [dot] de</a>
+                    <a href="javascript:linkTo_UnCryptMailto('nbjmup;lpoubluAfoufqf/ef');"><i class="fa fa-envelope"></i> kontakt [at] entepe [dot] de</a><br>
+                    <strong>PGP Key Fingerprint: 3445 C203 F124 D1B6 A696 43CB DB9D 9A1C 95B4 F1BE</strong>
                 </p>
             </div>
-            <!-- <div class="form-wrap">
-                <form action="//formspree.io/kontakt@entepe.de" method="POST" class="pure-form ajax-form">
-                    <formbody>
-                        <fieldset class="pure-group">
-                            <input type="text" class="pure-input-1" placeholder="Name" name="name" required>
-                            <input type="email" class="pure-input-1" placeholder="E-Mail" name="_replyto" required>
-                        </fieldset>
-                        <fieldset class="pure-group">
-                            <input type="text" class="pure-input-1" placeholder="Betreff" name="_subject">
-                            <textarea class="pure-input-1" placeholder="Nachricht" name="message" rows="6" required></textarea>
-                        </fieldset>
-                        <input type="text" class="pure-input-1" name="_gotcha" style="display:none">
-                        <button type="submit" class="pure-button"><i class="fa fa-paper-plane-o"></i> Abschicken</button>
-                    </formbody>
-                </form>
-            </div> -->
-            <!-- TODO: Check async form script -->
         </div>
     </div>
 </section>
