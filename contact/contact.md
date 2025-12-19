@@ -18,7 +18,7 @@ permalink: /kontakt/
                 </p>
                 <p>
                     <a href="javascript:linkTo_UnCryptMailto('nbjmup;lpoubluAfoufqf/ef');"><i class="fa fa-envelope"></i> kontakt [at] entepe [dot] de</a><br>
-                    <strong>PGP Key Fingerprint: 3445 C203 F124 D1B6 A696 43CB DB9D 9A1C 95B4 F1BE</strong>
+                    <strong>PGP Key Fingerprint: 1B2B C477 6144 013A 7625 3C73 3781 0582 0B61 A938</strong>
                 </p>
             </div>
         </div>
